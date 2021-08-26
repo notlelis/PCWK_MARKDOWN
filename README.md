@@ -1,14 +1,28 @@
 # PCWK_MARKDOWN
-### 7. 하이퍼링크  
-[링크텍스트](링크URL "설명문구")  
-[PCWK CAFE](https://cafe.daum.net/pcwk)  
+### 10. 표  
+|번호|아이디|이름|레벨|이메일|등록일|
+|:-------|:-------|:-------|:-------|:-------|:-------|  
+|1       |notlelis    |김보선   |1       |notlelis@gmail.com|17:02|
+|2       |nutlelis    |김보라   |2       |nutlelis@gmail.com|17:03|
 
-### 6. 가로선  
+### 9) 이미지 넣기  
+![깃허브](https://github.com/notlelis/PCWK_MARKDOWN/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png "github")   
+
+### 8) 강조 (**bold) (*italic)  
+**Spring**을 만끽 하세요.  
+*스프링*을 만끽 하세요.  
+__스프링__을 만끽 하세요.  
+
+### 7) 하이퍼링크  
+[링크텍스트](링크URL "설명문구")  
+[PCWK CAFE](https://cafe.daum.net/pcwk "RPA_CLASS")  
+
+### 6) 가로선  
 ---
 ***
 ___
 
-### 5. 코드 블록
+### 5) 코드 블록
 ``` 프로그래밍 언어  
 public class Hello {
   public static void main(String[] args) {
@@ -17,7 +31,7 @@ public class Hello {
 }
 ```
 
-### 4. 목록  
+### 4) 목록  
 리스트 작성 방법  
 * 목록이름1
 * 목록이름2
@@ -39,18 +53,18 @@ public class Hello {
     2.1. 하위 아이템 2.1   
     2.2. 하위 아이템 2.2  
 
-### 3. 인용문
+### 3) 인용문
 > 여기에 인용할 내용을 넣으면 됩니다.  
 > 빈줄이 없으면 자동으로 인용 상자에 포함 됩니다.  
 
-### 2. 헤더  
+### 2) 헤더  
 # 헤더  
 ## 헤더  
 ### 헤더  
 #### 헤더  
 ##### 헤더  
 
-### 1. 문단 구분을 위한 개행  
+### 1) 문단 구분을 위한 개행  
 문단을 작성하세요.  
 여름이 가고 가을이 오고 있습니다.  
 #### <스페이스바 두번을 누름 = enter key>  
